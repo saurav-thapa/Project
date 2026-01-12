@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #ffffff;
+    background: #6dc2a8;
     color: #333;
 }
 
@@ -15,13 +15,13 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
-    background: #8ca2ea;
+    background: #6a7495;
 }
 
 .logo {
     font-size: 22px;
     font-weight: bold;
-    color: #ffffff;
+    color: #0e0b0b;
 }
 
 .nav ul {
@@ -35,7 +35,7 @@ body {
 
 .nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #151111;
     font-weight: 500;
 }
 
@@ -49,7 +49,7 @@ body {
     max-width: 900px;
     margin: 60px auto;
     padding: 40px;
-    background: #f5f6ff;
+    background: #acb1df;
     border-radius: 10px;
 }
 
@@ -65,7 +65,7 @@ body {
 
 
 .footer {
-    background: #8ca2ea;
+    background: #5d6faa;
     color: #ffffff;
     text-align: center;
     padding: 20px;

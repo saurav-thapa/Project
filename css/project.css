@@ -6,17 +6,17 @@
 }
 
 body {
-    background: #ffffff;
+    background: #61b599;
     color: #333;
 }
 
-/* Navigation */
+
 .nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
-    background: #8ca2ea;
+    background: #6875a0;
 }
 
 .logo {
@@ -36,7 +36,7 @@ body {
 
 .nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #161010;
     font-weight: 500;
 }
 
@@ -45,7 +45,7 @@ body {
     text-decoration: underline;
 }
 
-/* Projects Section */
+
 .projects {
     padding: 60px 40px;
     max-width: 1100px;
@@ -78,16 +78,16 @@ body {
     line-height: 1.6;
 }
 
-/* Footer */
+
 .footer {
-    background: #8ca2ea;
+    background: #697ab1;
     color: #ffffff;
     text-align: center;
     padding: 20px;
     margin-top: 40px;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
     .project-grid {
         grid-template-columns: 1fr;
