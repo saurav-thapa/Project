@@ -90,7 +90,8 @@ body {
 
 .hero-image img {
     width: 350px;
-    border-radius: 15px;
+    height: 350px;
+    border-radius: 50%;
 }
 
 /* Footer */
